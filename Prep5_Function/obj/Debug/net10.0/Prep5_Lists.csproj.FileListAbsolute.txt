@@ -1,0 +1,15 @@
+C:\Users\taishi\coding\CSE210\Prep5_Function\bin\Debug\net10.0\Prep5_Lists.exe
+C:\Users\taishi\coding\CSE210\Prep5_Function\bin\Debug\net10.0\Prep5_Lists.deps.json
+C:\Users\taishi\coding\CSE210\Prep5_Function\bin\Debug\net10.0\Prep5_Lists.runtimeconfig.json
+C:\Users\taishi\coding\CSE210\Prep5_Function\bin\Debug\net10.0\Prep5_Lists.dll
+C:\Users\taishi\coding\CSE210\Prep5_Function\bin\Debug\net10.0\Prep5_Lists.pdb
+C:\Users\taishi\coding\CSE210\Prep5_Function\obj\Debug\net10.0\Prep5_Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taishi\coding\CSE210\Prep5_Function\obj\Debug\net10.0\Prep5_Lists.AssemblyInfoInputs.cache
+C:\Users\taishi\coding\CSE210\Prep5_Function\obj\Debug\net10.0\Prep5_Lists.AssemblyInfo.cs
+C:\Users\taishi\coding\CSE210\Prep5_Function\obj\Debug\net10.0\Prep5_Lists.csproj.CoreCompileInputs.cache
+C:\Users\taishi\coding\CSE210\Prep5_Function\obj\Debug\net10.0\Prep5_Lists.sourcelink.json
+C:\Users\taishi\coding\CSE210\Prep5_Function\obj\Debug\net10.0\Prep5_Lists.dll
+C:\Users\taishi\coding\CSE210\Prep5_Function\obj\Debug\net10.0\refint\Prep5_Lists.dll
+C:\Users\taishi\coding\CSE210\Prep5_Function\obj\Debug\net10.0\Prep5_Lists.pdb
+C:\Users\taishi\coding\CSE210\Prep5_Function\obj\Debug\net10.0\Prep5_Lists.genruntimeconfig.cache
+C:\Users\taishi\coding\CSE210\Prep5_Function\obj\Debug\net10.0\ref\Prep5_Lists.dll
