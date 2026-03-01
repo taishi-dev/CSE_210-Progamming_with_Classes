@@ -1,0 +1,15 @@
+C:\Users\taishi\coding\CSE210\Prep3_Loops\obj\Debug\net10.0\Prep3_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taishi\coding\CSE210\Prep3_Loops\obj\Debug\net10.0\Prep3_Loops.AssemblyInfoInputs.cache
+C:\Users\taishi\coding\CSE210\Prep3_Loops\obj\Debug\net10.0\Prep3_Loops.AssemblyInfo.cs
+C:\Users\taishi\coding\CSE210\Prep3_Loops\obj\Debug\net10.0\Prep3_Loops.csproj.CoreCompileInputs.cache
+C:\Users\taishi\coding\CSE210\Prep3_Loops\obj\Debug\net10.0\Prep3_Loops.sourcelink.json
+C:\Users\taishi\coding\CSE210\Prep3_Loops\bin\Debug\net10.0\Prep3_Loops.exe
+C:\Users\taishi\coding\CSE210\Prep3_Loops\bin\Debug\net10.0\Prep3_Loops.deps.json
+C:\Users\taishi\coding\CSE210\Prep3_Loops\bin\Debug\net10.0\Prep3_Loops.runtimeconfig.json
+C:\Users\taishi\coding\CSE210\Prep3_Loops\bin\Debug\net10.0\Prep3_Loops.dll
+C:\Users\taishi\coding\CSE210\Prep3_Loops\bin\Debug\net10.0\Prep3_Loops.pdb
+C:\Users\taishi\coding\CSE210\Prep3_Loops\obj\Debug\net10.0\Prep3_Loops.dll
+C:\Users\taishi\coding\CSE210\Prep3_Loops\obj\Debug\net10.0\refint\Prep3_Loops.dll
+C:\Users\taishi\coding\CSE210\Prep3_Loops\obj\Debug\net10.0\Prep3_Loops.pdb
+C:\Users\taishi\coding\CSE210\Prep3_Loops\obj\Debug\net10.0\Prep3_Loops.genruntimeconfig.cache
+C:\Users\taishi\coding\CSE210\Prep3_Loops\obj\Debug\net10.0\ref\Prep3_Loops.dll
