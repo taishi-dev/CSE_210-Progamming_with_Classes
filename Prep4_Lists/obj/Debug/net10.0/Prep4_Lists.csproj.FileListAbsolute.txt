@@ -1,0 +1,15 @@
+C:\Users\taishi\coding\CSE210\Prep4_Lists\obj\Debug\net10.0\Prep4_Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taishi\coding\CSE210\Prep4_Lists\obj\Debug\net10.0\Prep4_Lists.AssemblyInfoInputs.cache
+C:\Users\taishi\coding\CSE210\Prep4_Lists\obj\Debug\net10.0\Prep4_Lists.AssemblyInfo.cs
+C:\Users\taishi\coding\CSE210\Prep4_Lists\obj\Debug\net10.0\Prep4_Lists.csproj.CoreCompileInputs.cache
+C:\Users\taishi\coding\CSE210\Prep4_Lists\obj\Debug\net10.0\Prep4_Lists.sourcelink.json
+C:\Users\taishi\coding\CSE210\Prep4_Lists\bin\Debug\net10.0\Prep4_Lists.exe
+C:\Users\taishi\coding\CSE210\Prep4_Lists\bin\Debug\net10.0\Prep4_Lists.deps.json
+C:\Users\taishi\coding\CSE210\Prep4_Lists\bin\Debug\net10.0\Prep4_Lists.runtimeconfig.json
+C:\Users\taishi\coding\CSE210\Prep4_Lists\bin\Debug\net10.0\Prep4_Lists.dll
+C:\Users\taishi\coding\CSE210\Prep4_Lists\bin\Debug\net10.0\Prep4_Lists.pdb
+C:\Users\taishi\coding\CSE210\Prep4_Lists\obj\Debug\net10.0\Prep4_Lists.dll
+C:\Users\taishi\coding\CSE210\Prep4_Lists\obj\Debug\net10.0\refint\Prep4_Lists.dll
+C:\Users\taishi\coding\CSE210\Prep4_Lists\obj\Debug\net10.0\Prep4_Lists.pdb
+C:\Users\taishi\coding\CSE210\Prep4_Lists\obj\Debug\net10.0\Prep4_Lists.genruntimeconfig.cache
+C:\Users\taishi\coding\CSE210\Prep4_Lists\obj\Debug\net10.0\ref\Prep4_Lists.dll
