@@ -1,0 +1,15 @@
+C:\Users\taishi\coding\CSE210\W03_Prepare_earning_Activity\bin\Debug\net10.0\W03_Prepare.exe
+C:\Users\taishi\coding\CSE210\W03_Prepare_earning_Activity\bin\Debug\net10.0\W03_Prepare.deps.json
+C:\Users\taishi\coding\CSE210\W03_Prepare_earning_Activity\bin\Debug\net10.0\W03_Prepare.runtimeconfig.json
+C:\Users\taishi\coding\CSE210\W03_Prepare_earning_Activity\bin\Debug\net10.0\W03_Prepare.dll
+C:\Users\taishi\coding\CSE210\W03_Prepare_earning_Activity\bin\Debug\net10.0\W03_Prepare.pdb
+C:\Users\taishi\coding\CSE210\W03_Prepare_earning_Activity\obj\Debug\net10.0\W03_Prepare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taishi\coding\CSE210\W03_Prepare_earning_Activity\obj\Debug\net10.0\W03_Prepare.AssemblyInfoInputs.cache
+C:\Users\taishi\coding\CSE210\W03_Prepare_earning_Activity\obj\Debug\net10.0\W03_Prepare.AssemblyInfo.cs
+C:\Users\taishi\coding\CSE210\W03_Prepare_earning_Activity\obj\Debug\net10.0\W03_Prepare.csproj.CoreCompileInputs.cache
+C:\Users\taishi\coding\CSE210\W03_Prepare_earning_Activity\obj\Debug\net10.0\W03_Prepare.sourcelink.json
+C:\Users\taishi\coding\CSE210\W03_Prepare_earning_Activity\obj\Debug\net10.0\W03_Prepare.dll
+C:\Users\taishi\coding\CSE210\W03_Prepare_earning_Activity\obj\Debug\net10.0\refint\W03_Prepare.dll
+C:\Users\taishi\coding\CSE210\W03_Prepare_earning_Activity\obj\Debug\net10.0\W03_Prepare.pdb
+C:\Users\taishi\coding\CSE210\W03_Prepare_earning_Activity\obj\Debug\net10.0\W03_Prepare.genruntimeconfig.cache
+C:\Users\taishi\coding\CSE210\W03_Prepare_earning_Activity\obj\Debug\net10.0\ref\W03_Prepare.dll
