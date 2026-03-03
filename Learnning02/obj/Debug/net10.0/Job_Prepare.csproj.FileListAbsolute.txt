@@ -1,0 +1,15 @@
+C:\Users\taishi\coding\CSE210\Learnning02\obj\Debug\net10.0\Job_Prepare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taishi\coding\CSE210\Learnning02\obj\Debug\net10.0\Job_Prepare.AssemblyInfoInputs.cache
+C:\Users\taishi\coding\CSE210\Learnning02\obj\Debug\net10.0\Job_Prepare.AssemblyInfo.cs
+C:\Users\taishi\coding\CSE210\Learnning02\obj\Debug\net10.0\Job_Prepare.csproj.CoreCompileInputs.cache
+C:\Users\taishi\coding\CSE210\Learnning02\obj\Debug\net10.0\Job_Prepare.sourcelink.json
+C:\Users\taishi\coding\CSE210\Learnning02\bin\Debug\net10.0\Job_Prepare.exe
+C:\Users\taishi\coding\CSE210\Learnning02\bin\Debug\net10.0\Job_Prepare.deps.json
+C:\Users\taishi\coding\CSE210\Learnning02\bin\Debug\net10.0\Job_Prepare.runtimeconfig.json
+C:\Users\taishi\coding\CSE210\Learnning02\bin\Debug\net10.0\Job_Prepare.dll
+C:\Users\taishi\coding\CSE210\Learnning02\bin\Debug\net10.0\Job_Prepare.pdb
+C:\Users\taishi\coding\CSE210\Learnning02\obj\Debug\net10.0\Job_Prepare.dll
+C:\Users\taishi\coding\CSE210\Learnning02\obj\Debug\net10.0\refint\Job_Prepare.dll
+C:\Users\taishi\coding\CSE210\Learnning02\obj\Debug\net10.0\Job_Prepare.pdb
+C:\Users\taishi\coding\CSE210\Learnning02\obj\Debug\net10.0\Job_Prepare.genruntimeconfig.cache
+C:\Users\taishi\coding\CSE210\Learnning02\obj\Debug\net10.0\ref\Job_Prepare.dll
